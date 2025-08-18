@@ -1,3 +1,6 @@
 chromadb
 python-dotenv
 langchain
+requests
+beautifulsoup4
+lxml
